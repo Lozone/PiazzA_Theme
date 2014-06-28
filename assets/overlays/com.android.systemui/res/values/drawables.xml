@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2014 The CyanogenMod Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
 <resources>
-    <drawable name="notification_number_text_color">#ff000000</drawable>
-    <drawable name="ticker_background_color">#ff1d1d1d</drawable>
-    <drawable name="system_bar_background">@color/system_bar_background_opaque</drawable>
-    <drawable name="status_bar_recents_app_thumbnail_background">#88000000</drawable>
-    <drawable name="status_bar_notification_row_background_color">#ff090909</drawable>
-    <drawable name="recents_callout_line">#99ffffff</drawable>
-    <drawable name="notification_item_background_legacy_color">#ffaaaaaa</drawable>
-    <drawable name="heads_up_notification_bg_pressed">#ff33B5E5</drawable>
-    <drawable name="notification_header_bg">#FF000000</drawable>
+    <item type="drawable" name="notification_item_background_color_pressed">#fff1f1f1</item>
+	<item type="drawable" name="notification_template_icon_bg">#ff353535</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#ff353535</item>
 </resources>

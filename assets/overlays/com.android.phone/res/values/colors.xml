@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="incall_call_banner_background">#a0828282</color>
+    <color name="incall_secondary_info_background">#80828282</color>
+    <color name="actionbar_background_color">#ff828282</color>
+    <color name="actionbar_underline">#ff828282</color>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeChooserActionBar" parent="@*android:style/Widget.Holo.ActionBar">
+        <item name="android:background">#ff353535</item>
+        <item name="android:logo">@drawable/ic_action_gallery</item>
+        <item name="android:displayOptions">useLogo|showHome|showTitle</item>
+        <item name="android:titleTextStyle">@style/ThemeChooserActionBarTitleText</item>
+    </style>
+    <style name="ThemeChooserActionBarTitleText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="ThemeChooserActionBarTabText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="mixnmatch_menu_btn" parent="@*android:style/Widget.Holo.Button.Borderless.Small">
+        <item name="android:background">#ff353535</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">103.0dip</item>
+    </style>
+    <style name="mixnmatch_menu_btn_icon">
+        <item name="android:layout_width">20.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="mixnmatch_menu_firstline">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="mixnmatch_menu_secondline">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffcccccc</item>
+    </style>
+    <style name="mixnmatch_menu_btn_left" parent="@style/mixnmatch_menu_btn">
+        <item name="android:layout_marginRight">4.0dip</item>
+    </style>
+    <style name="mixnmatch_menu_btn_right" parent="@style/mixnmatch_menu_btn">
+        <item name="android:layout_marginRight">4.0dip</item>
+    </style>
+    <style name="drawer_footer">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">left</item>
+        <item name="android:background">#ff1f1f1f</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">20.0dip</item>
+        <item name="android:paddingBottom">20.0dip</item>
+    </style>
+    <style name="drawer_header">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">left</item>
+        <item name="android:background">#ff1f1f1f</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+    </style>
+    <style name="drawer_list_item">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:background">#ff393939</item>
+        <item name="android:paddingLeft">10.0dip</item>
+    </style>
+    <style name="drawer_list_item_text">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+</resources>

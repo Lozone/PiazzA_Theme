@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_icon_size">24.0dip</dimen>
+    <dimen name="button_bar_height">62.0dip</dimen>
+    <dimen name="sliding_up_panel_parallax_distance">150.0dip</dimen>
+</resources>

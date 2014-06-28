@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="tab_bottom_border_active">#ffffffff</color>
+	<color name="tab_background_pressed">#ffc4c4c4</color>
+</resources>

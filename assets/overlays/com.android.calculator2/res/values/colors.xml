@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="background">#ff373737</color>
+	<color name="pressed_color">#ffcccccc</color>
+	<color name="pressed_color_light">#ffE73137</color>
+	<color name="history_result_light">#ffE73137</color>
+    <color name="graph_color">#ffE73137</color>
+    <color name="button_text">#ffffffff</color>
+</resources>

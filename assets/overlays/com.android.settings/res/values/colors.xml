@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#ff353535</color>
+    <color name="holo_blue_light">#ff828282</color>
+    <color name="holo_blue_dark">#ff353535</color>
+    <color name="holo_blue_bright">#ffc4c4c4</color>
+    <color name="list_separator">#ff828282</color>
+    <color name="memory_used">#ffff0000</color>
+    <color name="memory_avail">#ff161616</color>
+    <color name="memory_apps_usage">#ff99cc00</color>
+    <color name="memory_downloads">#ff3971e3</color>
+    <color name="memory_dcim">#ffbb3dc6</color>
+    <color name="memory_music">#ffff8800</color>
+    <color name="memory_cache">#ff33b5e5</color>
+    <color name="memory_misc">#ffcc0000</color>
+    <color name="memory_user_light">#ff479392</color>
+    <color name="memory_user_dark">#ff316665</color>
+</resources>
